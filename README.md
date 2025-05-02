@@ -19,7 +19,7 @@ Welcome to the **Weather Forecast** MCP tool! 🎉 This small but powerful servi
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-org/weather-forecast-tool.git
+   git clone https://github.com/Raezil/weather-forecast-mcp
    cd weather-forecast-tool
    ```
 2. Install dependencies:
