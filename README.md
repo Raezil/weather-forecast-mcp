@@ -20,12 +20,12 @@ Welcome to the **Weather Forecast** MCP tool! 🎉 This small but powerful servi
 
    ```bash
    git clone https://github.com/Raezil/weather-forecast-mcp
-   cd weather-forecast-tool
+   cd weather-forecast-mcp
    ```
 2. Install dependencies:
 
    ```bash
-   go mod download
+   go mod tidy
    ```
 
 ## 🔧 Configuration
